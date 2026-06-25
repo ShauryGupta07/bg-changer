@@ -1,16 +1,65 @@
-# React + Vite
+# React Background Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that allows users to change the background color of the page with a single click. This project was built to practice React fundamentals such as state management and event handling.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🎨 Dynamically changes the background color
+* ⚛️ Built using React functional components
+* 🪝 Uses the `useState` hook for state management
+* 📱 Responsive and minimal user interface
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* JavaScript (ES6+)
+* Tailwind CSS
+* Vite
 
-## Expanding the ESLint configuration
+## Learning Outcomes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Through this project, I practiced:
+
+* React component structure
+* State management with `useState`
+* Event handling in React
+* Dynamic UI updates
+* Styling with Tailwind CSS
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone <repository-url>
+```
+
+2. Navigate to the project directory
+
+```bash
+cd <repository-name>
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+## Future Improvements
+
+* Add smooth background transition animations
+* Allow users to choose custom colors
+* Save the selected background color using Local Storage
+* Add dark/light mode support
+
+## Author
+
+**Shaury Gupta**
+
