@@ -33,13 +33,13 @@ Through this project, I practiced:
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ShauryGupta07/bg-changer.git>
 ```
 
 2. Navigate to the project directory
 
 ```bash
-cd <repository-name>
+cd <bg-changer>
 ```
 
 3. Install dependencies
