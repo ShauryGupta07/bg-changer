@@ -2,6 +2,8 @@
 
 A simple React application that allows users to change the background color of the page with a single click. This project was built to practice React fundamentals such as state management and event handling.
 
+## Preview
+![Project Preview](./screenshots/preview.png)
 ## Features
 
 * 🎨 Dynamically changes the background color
